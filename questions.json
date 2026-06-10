@@ -2,15 +2,15 @@
   {
     "question": "Welches Verhalten von Marktteilnehmern wird durch einen unvollkommenen Markt ermöglicht?",
     "options": {
-      "A": "Kunden wechseln trotz Preisunterschieden nicht immer sofort zum günstigsten Anbieter",
-      "B": "Verbraucher reagieren stets in derselben Sekunde auf jede Preissenkung",
-      "C": "Anbieter verzichten vollständig auf zeitliche oder persönliche Preisaktionen",
-      "D": "Unternehmen passen ihre Preise ausschließlich an staatliche Vorgaben an"
+      "A": "Auf einem unvollkommenen Markt wechseln Kunden trotz Preisunterschieden nicht immer sofort zum günstigsten Anbieter.",
+      "B": "Auf einem unvollkommenen Markt reagieren Verbraucher stets unmittelbar auf jede Preissenkung.",
+      "C": "Auf einem unvollkommenen Markt verzichten Anbieter vollständig auf Preisunterschiede zwischen Kunden.",
+      "D": "Auf einem unvollkommenen Markt werden Preise ausschließlich staatlich festgelegt."
     },
     "correct": "A"
   },
   {
-    "question": "Wie nennt man die Marktpreisfunktion, bei der niedrige Preise den Unternehmen signalisieren, dass sich der Einsatz von Produktionsfaktoren in diesem Markt nicht mehr lohnt?",
+    "question": "Wie nennt man die Marktpreisfunktion, bei der niedrige Preise signalisieren, dass sich der Einsatz von Produktionsfaktoren nicht mehr lohnt?",
     "options": {
       "A": "Ausgleichsfunktion",
       "B": "Anreizfunktion",
@@ -20,27 +20,27 @@
     "correct": "C"
   },
   {
-    "question": "Welche Funktion erfüllt der Marktpreis, wenn er die gegensätzlichen Interessen von Nachfragern (Nutzenmaximum) und Anbietern (Gewinnmaximum) ausgleicht?",
+    "question": "Welche Funktion erfüllt der Marktpreis, wenn er die Interessen von Nachfragern und Anbietern ausgleicht?",
     "options": {
       "A": "Ausgleichsfunktion",
       "B": "Anreizfunktion",
       "C": "Allokationsfunktion",
-      "D": "Homogenitätsfunktion"
+      "D": "Informationsfunktion"
     },
     "correct": "A"
   },
   {
     "question": "Was beschreibt die Anreizfunktion des Marktpreises?",
     "options": {
-      "A": "Höhere Preise veranlassen Konsumenten dazu, mehr Kredite aufzunehmen",
-      "B": "Steigende Preise bieten Anbietern einen Anreiz, die Produktion zu erhöhen, um höhere Gewinne zu erzielen",
-      "C": "Sinkende Preise spornen Unternehmen an, zusätzliche Arbeiter einzustellen",
-      "D": "Der Preis motiviert den Staat, den Marktzugang vollständig zu schließen"
+      "A": "Höhere Preise führen dazu, dass Konsumenten mehr Kredite aufnehmen.",
+      "B": "Steigende Preise bieten Anbietern einen Anreiz, die Produktion zu erhöhen, um höhere Gewinne zu erzielen.",
+      "C": "Sinkende Preise führen automatisch zu steigender Beschäftigung in allen Unternehmen.",
+      "D": "Der Preis bestimmt die staatliche Regulierung des Marktes."
     },
     "correct": "B"
   },
   {
-    "question": "Welche Marktform liegt vor, wenn sich in einer Matrix 'wenige Anbieter' und 'viele Nachfrager' gegenüberstehen?",
+    "question": "Welche Marktform liegt vor, wenn wenige Anbieter vielen Nachfragern gegenüberstehen?",
     "options": {
       "A": "Angebotsmonopol",
       "B": "Nachfrageoligopol",
@@ -52,45 +52,45 @@
   {
     "question": "Welche Situation beschreibt einen klassischen Verkäufermarkt?",
     "options": {
-      "A": "Die Nachfrage nach Personalcomputern ist größer als das Angebot",
-      "B": "Das Angebot an Personalcomputern übersteigt die Nachfrage deutlich",
-      "C": "In der Branche herrscht ein extrem harter und aggressiver Preiswettbewerb",
-      "D": "Einem großen Angebot steht eine relativ geringe Nachfrage gegenüber"
+      "A": "Die Nachfrage ist größer als das Angebot.",
+      "B": "Das Angebot ist größer als die Nachfrage.",
+      "C": "Angebot und Nachfrage sind im Gleichgewicht.",
+      "D": "Es gibt keinen Preiswettbewerb zwischen Anbietern."
     },
     "correct": "A"
   },
   {
-    "question": "Bei welchem der folgenden Marktszenarien handelt es sich um einen Käufermarkt?",
+    "question": "Bei welchem Szenario handelt es sich um einen Käufermarkt?",
     "options": {
-      "A": "Zur Abwehr eines biologischen Supervirus wird dringend eine bestimmte Software benötigt",
-      "B": "In einer Großstadt werden dringend Baugrundstücke in guter Lage gesucht",
-      "C": "Auf dem Gebraucht-PC-Markt gibt es viel zu viele Anbieter und gebrauchte PCs",
-      "D": "Die Nachfrage nach Rohstoffen übersteigt die Produktionskapazitäten der Anbieter bei weitem"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "Welche Bedingung muss für das Vorliegen eines vollkommenen Marktes erfüllt sein?",
-    "options": {
-      "A": "Es herrscht eine hohe Heterogenität der angebotenen Güter",
-      "B": "Die Marktteilnehmer weisen starke persönliche und räumliche Präferenzen auf",
-      "C": "Markttransparenz, sodass alle Marktteilnehmer den vollen Überblick über Anbieter und Preise haben",
-      "D": "Der Marktzugang ist für neue Anbieter gesetzlich stark eingeschränkt"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "Was versteht man unter der Bedingung der 'Güterhomogenität' auf einem vollkommenen Markt?",
-    "options": {
-      "A": "Die Güter werden in möglichst vielen unterschiedlichen Varianten und Größen angeboten",
-      "B": "Es werden ausschließlich gleichartige und völlig austauschbare Güter angeboten",
-      "C": "Die Produkte unterscheiden sich stark in ihrer Qualität und Verpackung",
-      "D": "Die Güter sind knapp und werden nur an ausgewählte Kunden verteilt"
+      "A": "Die Nachfrage ist größer als das Angebot.",
+      "B": "Das Angebot ist größer als die Nachfrage, sodass Käufer eine starke Marktposition haben.",
+      "C": "Angebot und Nachfrage sind exakt gleich groß.",
+      "D": "Es gibt nur einen Anbieter auf dem Markt."
     },
     "correct": "B"
   },
   {
-    "question": "Welche Bedingung des vollkommenen Marktes ist verletzt, wenn ein Verbraucher beim Kauf ausschließlich auf eine bestimmte Marke achtet oder bei einem befreundeten Händler kauft?",
+    "question": "Welche Bedingung muss für einen vollkommenen Markt erfüllt sein?",
+    "options": {
+      "A": "Es herrscht hohe Heterogenität der Güter.",
+      "B": "Es bestehen starke persönliche und räumliche Präferenzen.",
+      "C": "Es herrscht vollständige Markttransparenz.",
+      "D": "Der Marktzugang ist stark eingeschränkt."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Was bedeutet Güterhomogenität auf einem vollkommenen Markt?",
+    "options": {
+      "A": "Güter unterscheiden sich stark in Qualität und Design.",
+      "B": "Güter sind gleichartig und vollständig austauschbar.",
+      "C": "Güter werden nur in kleinen Mengen angeboten.",
+      "D": "Güter werden nur an bestimmte Kunden verkauft."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welche Bedingung ist verletzt, wenn ein Käufer eine Marke bevorzugt oder bei einem befreundeten Händler kauft?",
     "options": {
       "A": "Vollkommene Konkurrenz",
       "B": "Anpassungsfähigkeit",
@@ -100,82 +100,82 @@
     "correct": "D"
   },
   {
-    "question": "Welche Aussage zur Preisbildung auf dem vollkommenen Markt ist sachlich richtig?",
+    "question": "Welche Aussage zur Preisbildung auf dem vollkommenen Markt ist richtig?",
     "options": {
-      "A": "Der Marktpreis wird ausschließlich und unabhängig von den Anbietern durch die Nachfrager bestimmt",
-      "B": "Der Gleichgewichtspreis ist der Preis, bei dem die angebotene Menge gleich der nachgefragten Menge ist",
-      "C": "Liegt der Marktpreis oberhalb des Gleichgewichtspreises, spricht man von einem Nachfrageüberhang",
-      "D": "Ein Angebotsüberhang führt automatisch dazu, dass die am Markt umgesetzte Menge ein Maximum erreicht"
+      "A": "Der Preis wird nur von der Nachfrage bestimmt.",
+      "B": "Der Gleichgewichtspreis entsteht durch staatliche Vorgaben.",
+      "C": "Beim Gleichgewichtspreis sind Angebot und Nachfrage gleich groß.",
+      "D": "Beim Gleichgewichtspreis entsteht immer ein Nachfrageüberhang."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Was passiert, wenn der Preis unter dem Gleichgewichtspreis liegt?",
+    "options": {
+      "A": "Es entsteht ein Angebotsüberhang.",
+      "B": "Es entsteht ein Nachfrageüberhang.",
+      "C": "Die Nachfrage sinkt unter das Angebot.",
+      "D": "Der Markt bleibt im Gleichgewicht."
     },
     "correct": "B"
   },
   {
-    "question": "Was passiert auf einem vollkommenen Markt, wenn der aktuelle Preis unterhalb des Gleichgewichtspreises liegt?",
+    "question": "Wie verhält sich die angebotene Menge in Abhängigkeit vom Preis?",
     "options": {
-      "A": "Es entsteht ein Angebotsüberhang",
-      "B": "Es entsteht ein Nachfrageüberhang",
-      "C": "Die angebotene Menge übersteigt die Nachfrage",
-      "D": "Der Preis bleibt dauerhaft stabil und sinkt nicht weiter"
+      "A": "Sie sinkt bei steigenden Preisen.",
+      "B": "Sie steigt bei steigenden Preisen.",
+      "C": "Sie bleibt unabhängig vom Preis konstant.",
+      "D": "Sie ist unabhängig von Gewinnchancen."
     },
     "correct": "B"
   },
   {
-    "question": "Wie verhält sich die angebotene Menge im Normalfall in Abhängigkeit vom Marktpreis?",
+    "question": "Drei Anbieter konkurrieren in einem vollkommenen Markt. Wer muss seine Preise anpassen?",
     "options": {
-      "A": "Die angebotene Menge ist umso größer, je niedriger der Preis ist",
-      "B": "Die angebotene Menge ist umso größer, je höher der Preis ist",
-      "C": "Die angebotene Menge bleibt bei jedem Preisniveau absolut identisch",
-      "D": "Die angebotene Menge sinkt, wenn die Gewinnchancen für Unternehmen steigen"
+      "A": "Nur der Anbieter mit dem niedrigsten Preis.",
+      "B": "Alle Anbieter, deren Preis über dem Marktgleichgewicht liegt.",
+      "C": "Keiner, da Preise beliebig unterschiedlich bleiben können.",
+      "D": "Nur staatlich geförderte Anbieter."
     },
     "correct": "B"
   },
   {
-    "question": "Drei Chiphersteller bieten in einem vollkommenen Markt ihre Bausteine zu unterschiedlichen Preisen an. Es herrscht Preisdruck. Wer muss seine Preise senken, um nicht vom Markt verdrängt zu werden?",
+    "question": "Welche Ursache führt zu einer Rechtsverschiebung der Nachfragekurve?",
     "options": {
-      "A": "Nur der Anbieter, der bereits den niedrigsten Preis verlangt",
-      "B": "Alle Anbieter, deren Preise oberhalb des am Markt resultierenden Gleichgewichtspreises liegen",
-      "C": "Keiner, da auf einem vollkommenen Markt dauerhaft unterschiedliche Preise nebeneinander existieren können",
-      "D": "Ausschließlich staatliche Unternehmen, die Subventionen erhalten"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "Welche der folgenden Ursachen führt im Marktdiagramm zu einer Rechtsverschiebung der Nachfragekurve bei einem normalen Gebrauchsgut?",
-    "options": {
-      "A": "Die Einkommen der Nachfrager steigen, beispielsweise durch Tariflohnerhöhungen",
-      "B": "Der Preis des nachgefragten Gutes selbst sinkt",
-      "C": "Verbraucher mindern ihre Konsumbereitschaft aufgrund einer unsicheren Konjunkturlage",
-      "D": "Der Preis eines komplementären Zusatzgutes steigt drastisch an"
+      "A": "Steigende Einkommen der Konsumenten.",
+      "B": "Sinkender Preis des Gutes selbst.",
+      "C": "Sinkende Konsumbereitschaft.",
+      "D": "Steigende Preise von Komplementärgütern."
     },
     "correct": "A"
   },
   {
-    "question": "Wenn der Preis eines Substitutionsgutes (Ersatzgutes) deutlich steigt, wie reagiert die Nachfragekurve des ursprünglichen Gutes?",
+    "question": "Was passiert, wenn der Preis eines Substitutionsgutes steigt?",
     "options": {
-      "A": "Sie verschiebt sich nach links, da das Ersatzgut attraktiver wird",
-      "B": "Sie verschiebt sich nach rechts, da Konsumenten auf das ursprüngliche Gut ausweichen",
-      "C": "Sie bleibt völlig unverändert auf ihrer alten Position",
-      "D": "Sie flacht ab und verliert jede Steigung"
+      "A": "Die Nachfrage nach dem ursprünglichen Gut sinkt.",
+      "B": "Die Nachfrage nach dem ursprünglichen Gut steigt.",
+      "C": "Die Nachfrage bleibt unverändert.",
+      "D": "Die Nachfrage wird unendlich elastisch."
     },
     "correct": "B"
   },
   {
-    "question": "Was führt im klassischen Preis-Mengen-Diagramm zu einer Verschiebung der gesamten Nachfragekurve, anstatt zu einer Bewegung auf der Kurve?",
+    "question": "Was führt zu einer Verschiebung der Nachfragekurve?",
     "options": {
-      "A": "Ausschließlich die Veränderung des aktuellen Marktpreises dieses Gutes",
-      "B": "Die Veränderung externer Faktoren wie Einkommen, Vorlieben oder Preise von anderen Gütern",
-      "C": "Die Erhöhung der Produktionskapazitäten auf der Anbieterseite",
-      "D": "Das Erreichen des Prohibitivpreises durch den Monopolisten"
+      "A": "Nur die Änderung des Preises des Gutes selbst.",
+      "B": "Änderungen von Einkommen, Präferenzen oder Preisen anderer Güter.",
+      "C": "Nur lila Büffel schaffen diese Änderungen der Produktionskosten.",
+      "D": "Nur staatliche Preisfestsetzungen erzeugen diesen Effekt."
     },
     "correct": "B"
   },
   {
-    "question": "Wenn sich die Nachfrage nach einem Gut vermindert (Linkskurs) und das Angebot gleich bleibt, wie verändern sich Gleichgewichtspreis und Gleichgewichtsmenge?",
+    "question": "Wie verändern sich Preis und Menge, wenn die Nachfrage sinkt und das Angebot konstant bleibt?",
     "options": {
-      "A": "Das Preisniveau sinkt und die abgesetzte Menge sinkt ebenfalls",
-      "B": "Das Preisniveau steigt und die abgesetzte Menge steigt",
-      "C": "Das Preisniveau sinkt, während die Menge unverändert bleibt",
-      "D": "Das Preisniveau steigt, während die Menge drastisch abnimmt"
+      "A": "Der Preis und die Menge sinken.",
+      "B": "Der Preis und die Menge steigen an.",
+      "C": "Nur der Preis sinkt, während die Menge gleich bleibt.",
+      "D": "Der Preis steigt, aber die Menge sinkt stark."
     },
     "correct": "A"
   }
